@@ -6,6 +6,6 @@ public class SkillDemoTest {
     //here, we add a test for our subtract function
     @Test
     public void subtraction() {
-        assertEquals(0, SkillDemo.subtract(2,1));
+        assertEquals(0, SkillDemo.subtract(1,1));
     }
 }
